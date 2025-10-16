@@ -1,9 +1,9 @@
 d3767ffb-6c4d-468d-9647-a728ba105dff|§bA dangerous idiot threatens the server!
-Aethyus|aaa
-Tribalstone|aaa
-Rocket|§6The Mushroom Monarch has awoken!
+43e07f61-281b-4d3a-9a11-511bf9c8fa0c|Aethyus
+5d01d925-3034-4347-8d19-bde4389c0881|TribalStone
+506e3f42-7d4d-4a1e-a261-f0208fc723f4|§6The Mushroom Monarch has awoken!
 58077472-00bd-462b-b143-ae11d1d121f9|§5The shadows just grew darker.
-Dizzle|aaa
-TimeConqueror|aaa
+352a52e5-af4a-49f2-8a70-da790cd620b0|Dizzle
+1e7c951f-bc0d-4a75-9a56-9fdb745c486e|Time
 6b07320a-993a-4183-bece-5d71e63c4bbd|§eDrapie buzzes into the server!
 0e601898-1aa7-4bd5-bb50-11a05815c29f|§dmeowow
